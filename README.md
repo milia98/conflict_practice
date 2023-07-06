@@ -1,5 +1,6 @@
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
-add-self-introduction-conflictで修正しました
+mainブランチで修正を加えました
+mainブランチに合わせてadd-self-introduction-conflict側のREADME.mdを修正しました
 ## Preparation
 
 ### 1. Create a new repository on GitHub, for example, named `conflict-practice`
